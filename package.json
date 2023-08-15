@@ -1,0 +1,7 @@
+{
+  "name": "webGl-practice",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
